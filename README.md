@@ -40,7 +40,8 @@ O objetivo foi colocar em prática os conceitos fundamentais de estruturação d
 
 > [🔗 Ver site publicado no Vercel](https://portfolio-html-css-alura-fawn.vercel.app/)
 
-(Substitua pelo link real gerado após publicar na Vercel)
+
 
 ---
+
 
