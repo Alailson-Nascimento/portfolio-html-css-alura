@@ -38,8 +38,9 @@ O objetivo foi colocar em prática os conceitos fundamentais de estruturação d
 
 ## 🌐 Acesse o projeto online
 
-> [🔗 Ver site publicado no Vercel](https://seu-projeto.vercel.app)
+> [🔗 Ver site publicado no Vercel](https://portfolio-html-css-alura-fawn.vercel.app/)
 
 (Substitua pelo link real gerado após publicar na Vercel)
 
 ---
+
